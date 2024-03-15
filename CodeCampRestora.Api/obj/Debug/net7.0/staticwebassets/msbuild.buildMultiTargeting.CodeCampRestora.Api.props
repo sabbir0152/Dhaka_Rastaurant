@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CodeCampRestora.Api.props" />
+</Project>

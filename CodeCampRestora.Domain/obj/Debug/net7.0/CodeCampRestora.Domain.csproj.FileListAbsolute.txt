@@ -1,0 +1,15 @@
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.deps.json
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.runtimeconfig.json
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\bin\Debug\net7.0\CodeCampRestora.Domain.pdb
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.csproj.AssemblyReference.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.AssemblyInfoInputs.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.AssemblyInfo.cs
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.csproj.CoreCompileInputs.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.sourcelink.json
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\refint\CodeCampRestora.Domain.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.pdb
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\CodeCampRestora.Domain.genruntimeconfig.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Domain\obj\Debug\net7.0\ref\CodeCampRestora.Domain.dll

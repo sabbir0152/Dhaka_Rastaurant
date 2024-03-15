@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "sJEiRMSnrZl3THvcouTmU1eAJoF9wG8FRQ1GdOh0Xm8=",
+  "Source": "CodeCampRestora.Api",
+  "BasePath": "_content/CodeCampRestora.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CodeCampRestora.Api\\wwwroot",
+      "Source": "CodeCampRestora.Api",
+      "ContentRoot": "D:\\Restaurant Project\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\",
+      "BasePath": "_content/CodeCampRestora.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Restaurant Project\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\images\\.placeholder",
+      "SourceId": "CodeCampRestora.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Restaurant Project\\codecamprestora.backend\\src\\CodeCampRestora.Api\\wwwroot\\",
+      "BasePath": "_content/CodeCampRestora.Api",
+      "RelativePath": "images/.placeholder",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\.placeholder"
+    }
+  ]
+}

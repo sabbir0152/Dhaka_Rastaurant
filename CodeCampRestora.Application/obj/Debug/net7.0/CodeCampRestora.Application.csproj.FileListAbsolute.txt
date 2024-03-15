@@ -1,0 +1,16 @@
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.deps.json
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Application.pdb
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Domain.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\bin\Debug\net7.0\CodeCampRestora.Domain.pdb
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.AssemblyReference.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.AssemblyInfoInputs.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.AssemblyInfo.cs
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.CoreCompileInputs.cache
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.sourcelink.json
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.csproj.CopyComplete
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\refint\CodeCampRestora.Application.dll
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\CodeCampRestora.Application.pdb
+D:\Restaurant Project\codecamprestora.backend\src\CodeCampRestora.Application\obj\Debug\net7.0\ref\CodeCampRestora.Application.dll
